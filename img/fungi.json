@@ -1,0 +1,11 @@
+{
+    "name": "MRM",
+    "description": "The logo of the Fungi Project",
+    "image": "https://ipfs.io/ipfs/QmTD93LYDW6bh8HM95vNnFXWM1PYDcG1UB7Jgu7XE2cA9A?filename=fungi-logo.png",
+    "attributes": [
+        {
+            "trait_type": "Fungus",
+            "value": 100
+        }
+    ]
+}
